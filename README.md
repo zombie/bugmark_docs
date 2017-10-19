@@ -7,6 +7,11 @@ We'll use a futures market, based on smart contracts, to develop some documentat
 Visit the BUGMARK SITE TK to get started.
 
 
+## Table of contents
+
+[About futures markets](/fixme/)
+
+
 ### Working with Jekyll
 
 You can use the  [editor on GitHub](https://github.com/mozilla/bugmark-docs/edit/master/README.md) to maintain and preview the content for this site.  Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
