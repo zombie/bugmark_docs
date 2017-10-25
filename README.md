@@ -1,6 +1,6 @@
 ## Welcome to the BugMark documentation
 
-This repository is part of the [Trading futures, fixing bugs](https://github.com/MozillaFoundation/mozfest-program-2017/issues/414) demonstration at [Mozfest](https://mozillafestival.org/), October 27-29, 2017.
+This repository is part of the [Trading futures, fixing bugs](https://github.com/MozillaFoundation/mozfest-program-2017/issues/414) demonstration at [Mozfest](https://mozillafestival.org/), London, England, October 27-29, 2017.
 
 We will use a futures market, based on smart contracts, to develop some documentation.
 
