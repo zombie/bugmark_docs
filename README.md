@@ -1,4 +1,4 @@
-## Welcome to the BugMark documentation
+## Welcome to the Bugmark documentation
 
 This repository is part of the [Trading futures, fixing bugs](https://github.com/MozillaFoundation/mozfest-program-2017/issues/414) demonstration at [Mozfest](https://mozillafestival.org/), October 27-29, 2017.
 
