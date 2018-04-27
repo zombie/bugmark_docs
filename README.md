@@ -1,10 +1,8 @@
 ## Welcome to the Bugmark documentation
 
-This repository is part of the [Trading futures, fixing bugs](https://github.com/MozillaFoundation/mozfest-program-2017/issues/414) demonstration at [Mozfest](https://mozillafestival.org/), October 27-29, 2017.
+This repository is part of an early testing of the Bugmark mechanisms..
 
 We will use a futures market, based on smart contracts, to develop some documentation.
-
-Visit the BUGMARK SITE TK to get started.
 
 
 ## Table of contents
@@ -14,7 +12,7 @@ Visit the BUGMARK SITE TK to get started.
 
 ### Working with Jekyll
 
-You can use the  [editor on GitHub](https://github.com/mozilla/bugmark-docs/edit/master/README.md) to maintain and preview the content for this site.  Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the [editor on GitHub](https://github.com/bugmark/bugmark-docs/edit/master/README.md) to maintain and preview the content for this site.  Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown basics
 
