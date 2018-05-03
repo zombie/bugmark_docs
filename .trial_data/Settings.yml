@@ -4,12 +4,13 @@ tracker_name: bugmark/bugmark_docs
 # webapp_url: scramword.bugmark.net:4567
 # tracker_type: yaml
 # tracker_name: /tmp/scramword.yml
+repo_url:     github.com/bugmark/bugmark_docs 
 webapp_url:   soak:4567
 base_price:    1.00
 base_volume:   20
 num_exercise_docs: 20
-start_date: 2018-05-03
-finish_date: 2018-05-05
+start_date: 2018-05-04
+finish_date: 2018-05-06
 leader_name: Malvika Rao
 leader_email: malvikar@gmail.com
 participants:
