@@ -1,11 +1,11 @@
 ---
 tracker_type: github
 tracker_name: bugmark/bugmark_docs
-# webapp_url: scramword.bugmark.net:4567
+webapp_url:   exercise.bugmark.net:4567
 # tracker_type: yaml
 # tracker_name: /tmp/scramword.yml
+# webapp_url:   soak:4567
 repo_url:     github.com/bugmark/bugmark_docs 
-webapp_url:   soak:4567
 base_price:    1.00
 base_volume:   20
 num_exercise_docs: 20

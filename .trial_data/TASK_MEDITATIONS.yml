@@ -1,0 +1,64 @@
+---
+- title:  Strip tags from file01_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file01_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file12_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file12_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file10_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file10_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file16_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file16_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file14_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file14_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file00_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file00_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file11_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file11_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file17_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file17_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file08_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file08_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file09_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file09_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file18_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file18_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file04_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file04_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file15_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file15_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file03_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file03_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file06_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file06_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file19_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file19_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file02_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file02_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file13_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file13_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file07_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file07_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file20_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file20_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
+- title:  Strip tags from file05_070902
+  labels: EXERCISE
+  body:   'Please remove html tags from file Meditations/file05_070902.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> )'
