@@ -1,28 +1,7 @@
 ---
 - price:  1.0
   volume: 60
-  hexid:  36f674
-- price:  1.0
-  volume: 60
-  hexid:  d398a3
-- price:  1.0
-  volume: 60
-  hexid:  af80c3
+  hexid:  f061e1
 - price:  1.0
   volume: 40
-  hexid:  424e46
-- price:  1.0
-  volume: 40
-  hexid:  a1584e
-- price:  1.0
-  volume: 40
-  hexid:  9b071e
-- price:  1.0
-  volume: 20
-  hexid:  774b61
-- price:  1.0
-  volume: 20
-  hexid:  541bc1
-- price:  1.0
-  volume: 20
-  hexid:  b3302d
+  hexid:  acff0f
