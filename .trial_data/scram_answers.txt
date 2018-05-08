@@ -1,6 +1,6 @@
-r s t b a o e |> boaters
-r s t b a o e |> boaters
-i a u y s t v |> suavity
-i a u y s t v |> suavity
-i d i y l g d |> giddily
-n l o n w u b |> unblown
+n i x d e u f |> unfixed
+n i x d e u f |> unfixed
+r y c o k |> rocky
+r y c o k |> rocky
+u a i a r a q |> aquaria
+s n v e e |> seven
