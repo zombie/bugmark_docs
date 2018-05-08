@@ -1,28 +1,7 @@
 ---
 - price:  1.0
   volume: 30
-  hexid:  0e6fa4
-- price:  1.0
-  volume: 30
-  hexid:  3bc422
-- price:  1.0
-  volume: 30
-  hexid:  5595a0
+  hexid:  247df8
 - price:  1.0
   volume: 20
-  hexid:  762cdf
-- price:  1.0
-  volume: 20
-  hexid:  35ff01
-- price:  1.0
-  volume: 20
-  hexid:  39bc3b
-- price:  1.0
-  volume: 10
-  hexid:  afe19a
-- price:  1.0
-  volume: 10
-  hexid:  e12672
-- price:  1.0
-  volume: 10
-  hexid:  3b8010
+  hexid:  8d2532
