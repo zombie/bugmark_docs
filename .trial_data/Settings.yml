@@ -1,17 +1,14 @@
 ---
-# webapp_url:   exercise.bugmark.net:4567
-webapp_url:   soak:4567
+webapp_url:   exercise.bugmark.net:4567
+# webapp_url:   soak:4567
 tracker_type: github
 tracker_name: bugmark/bugmark_docs
 # tracker_type: yaml
 # tracker_name: /tmp/worker.yml
 repo_url:     github.com/bugmark/bugmark_docs 
-base_price:    1.00
-base_volume:   20
-num_exercise_docs: 20
-start_date: 2018-05-04
-finish_date: 2018-05-06
-leader_name: Malvika Rao
+start_date:   2018-05-08
+finish_date:  2018-05-10
+leader_name:  Malvika Rao
 leader_email: malvikar@gmail.com
 participants:
   - andy@r210.com
