@@ -1,10 +1,10 @@
 ---
 webapp_url:   exercise.bugmark.net:4567
 # webapp_url:   soak:4567
-tracker_type: github
-tracker_name: bugmark/bugmark_docs
-# tracker_type: yaml
-# tracker_name: /tmp/worker.yml
+# tracker_type: github
+# tracker_name: bugmark/bugmark_docs
+tracker_type: yaml
+tracker_name: /tmp/worker.yml
 repo_url:     github.com/bugmark/bugmark_docs 
 start_date:   2018-05-08
 finish_date:  2018-05-10
