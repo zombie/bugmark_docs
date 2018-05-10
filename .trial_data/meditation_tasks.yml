@@ -1,7 +1,7 @@
 ---
-- title:  Strip tags from file1_0525
+- title:  Strip tags from file1_1810
   labels: EXERCISE,MEDITATIONS
-  body:   'Please remove html tags from file Meditations/file1_0525.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> ) /47b4c3'
-- title:  Strip tags from file2_0525
+  body:   'Please remove html tags from file Meditations/file1_1810.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> ) /f8dafa'
+- title:  Strip tags from file2_1810
   labels: EXERCISE,MEDITATIONS
-  body:   'Please remove html tags from file Meditations/file2_0525.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> ) /b3b4bb'
+  body:   'Please remove html tags from file Meditations/file2_1810.html. ( <a href="http://github.com/bugmark/bugmark_docs">Document Repo</a> ) /bd5369'
