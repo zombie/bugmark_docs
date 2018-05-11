@@ -1,6 +1,6 @@
 ---
-webapp_url:   exercise.bugmark.net:4567
-# webapp_url:   soak:4567
+# webapp_url:   exercise.bugmark.net:4567
+webapp_url:   soak:4567
 # tracker_type: github
 # tracker_name: bugmark/bugmark_docs
 tracker_type: yaml
