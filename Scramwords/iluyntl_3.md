@@ -1,4 +1,6 @@
-Unscramble this word: e w c a r i r
+Unscramble this word: i l u y n t l
+
+HINT: the unscrambled word starts with 'nul'
 
 
 

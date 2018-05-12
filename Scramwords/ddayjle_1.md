@@ -1,6 +1,6 @@
-Unscramble this word: n l v a e u r
+Unscramble this word: d d a y j l e
 
-HINT: the unscrambled word starts with 'u'
+HINT: the unscrambled word starts with 'j'
 
 
 
