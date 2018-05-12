@@ -1,9 +1,17 @@
 ---
-- title:  msiesmi_p0
+- title:  asosnrm_p0
   labels: EXERCISE,SCRAMWORDS,RESOLVE_WITH_PR,HINTLEVEL_0
-  body:   "Unscramble this word: m s i e s m i<p></p>/9c9104"
+  body:   "Unscramble this word: a s o s n r m<p></p><p></p>TO RESOLVE THIS ISSUE: unscramble the word, and add it to the document. Then submit a pull-request.  Make sure to reference the correct issue  number (using the `#NNN` syntax) in your pull-request. <p></p>The document URL is  <a href='https://github.com/bugmark/bugmark_docs/blog/master/Scramwords/asosnrm_0.md'>https://github.com/bugmark/bugmark_docs/blog/master/Scramwords/asosnrm_0.md</a><p></p>/8ff0c2"
 
-- title:  arurgel_p1
+- title:  eodserc_p1
   labels: EXERCISE,SCRAMWORDS,RESOLVE_WITH_PR,HINTLEVEL_1
-  body:   "Unscramble this word: a r u r g e l<p></p>HINT: word starts with 'r'<p></p><p></p>/3a2c69"
+  body:   "Unscramble this word: e o d s e r c<p></p>HINT: the unscrambled word starts with 'r'<p></p><p></p>TO RESOLVE THIS ISSUE: unscramble the word, and add it to the document. Then submit a pull-request.  Make sure to reference the correct issue  number (using the `#NNN` syntax) in your pull-request. <p></p>The document URL is  <a href='https://github.com/bugmark/bugmark_docs/blog/master/Scramwords/eodserc_1.md'>https://github.com/bugmark/bugmark_docs/blog/master/Scramwords/eodserc_1.md</a><p></p>/090a57"
+
+- title:  ctretxa_p2
+  labels: EXERCISE,SCRAMWORDS,RESOLVE_WITH_PR,HINTLEVEL_2
+  body:   "Unscramble this word: c t r e t x a<p></p>HINT: the unscrambled word starts with 'ex'<p></p><p></p>TO RESOLVE THIS ISSUE: unscramble the word, and add it to the document. Then submit a pull-request.  Make sure to reference the correct issue  number (using the `#NNN` syntax) in your pull-request. <p></p>The document URL is  <a href='https://github.com/bugmark/bugmark_docs/blog/master/Scramwords/ctretxa_2.md'>https://github.com/bugmark/bugmark_docs/blog/master/Scramwords/ctretxa_2.md</a><p></p>/d42d39"
+
+- title:  tdeamun_p3
+  labels: EXERCISE,SCRAMWORDS,RESOLVE_WITH_PR,HINTLEVEL_3
+  body:   "Unscramble this word: t d e a m u n<p></p>HINT: the unscrambled word starts with 'unt'<p></p><p></p>TO RESOLVE THIS ISSUE: unscramble the word, and add it to the document. Then submit a pull-request.  Make sure to reference the correct issue  number (using the `#NNN` syntax) in your pull-request. <p></p>The document URL is  <a href='https://github.com/bugmark/bugmark_docs/blog/master/Scramwords/tdeamun_3.md'>https://github.com/bugmark/bugmark_docs/blog/master/Scramwords/tdeamun_3.md</a><p></p>/9547a7"
 

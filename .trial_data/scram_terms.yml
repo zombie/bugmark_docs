@@ -1,7 +1,13 @@
 ---
 - price:  1.0
   volume: 20
-  hexid:  
+  hexid:  30df25
 - price:  1.0
   volume: 20
-  hexid:  
+  hexid:  7eaedb
+- price:  1.0
+  volume: 20
+  hexid:  c5dc45
+- price:  1.0
+  volume: 20
+  hexid:  64736f
