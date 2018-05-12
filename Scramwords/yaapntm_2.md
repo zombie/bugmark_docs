@@ -1,6 +1,6 @@
-Unscramble this word: w h g e i r e
+Unscramble this word: y a a p n t m
 
-HINT: the unscrambled word starts with 'r'
+HINT: the unscrambled word starts with 'ty'
 
 
 

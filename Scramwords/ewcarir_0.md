@@ -1,6 +1,4 @@
-Unscramble this word: a y d h a e w
-
-HINT: the unscrambled word starts with 'hea'
+Unscramble this word: e w c a r i r
 
 
 

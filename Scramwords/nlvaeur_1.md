@@ -1,6 +1,6 @@
-Unscramble this word: e a r t w
+Unscramble this word: n l v a e u r
 
-HINT: the unscrambled word starts with 'wa'
+HINT: the unscrambled word starts with 'u'
 
 
 
