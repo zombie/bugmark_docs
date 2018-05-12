@@ -1,4 +1,6 @@
-Unscramble this word: s t d l u o e
+Unscramble this word: v w o r h e e
+
+HINT: the unscrambled word starts with 'ho'
 
 
 

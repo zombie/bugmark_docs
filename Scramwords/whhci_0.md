@@ -1,6 +1,4 @@
-Unscramble this word: d d a y j l e
-
-HINT: the unscrambled word starts with 'j'
+Unscramble this word: w h h c i
 
 
 
