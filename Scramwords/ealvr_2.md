@@ -1,6 +1,6 @@
-Unscramble this word: n s r t e w i
+Unscramble this word: e a l v r
 
-HINT: the unscrambled word starts with 'win'
+HINT: the unscrambled word starts with 'ra'
 
 
 

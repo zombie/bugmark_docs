@@ -1,6 +1,4 @@
-Unscramble this word: y a a p n t m
-
-HINT: the unscrambled word starts with 'ty'
+Unscramble this word: s t d l u o e
 
 
 
