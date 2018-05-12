@@ -8,12 +8,19 @@ tracker_name: /tmp/worker.yml
 repo_url:     github.com/bugmark/bugmark_docs 
 start_date:   2018-05-08
 finish_date:  2018-05-10
+funder_email: malvikar@gmail.com
 leader_name:  Malvika Rao
 leader_email: malvikar@gmail.com
+scram_c2_volume: 20
+scram_c1_volume: 20
+scram_c0_volume: 20
+scram_p2_volume: 20
+scram_p1_volume: 20
+scram_p0_volume: 20
 participants:
   - andy@r210.com
-  - malvikar@gmail.com
   - linkgeorg@gmail.com
   - dmarti@mozilla.com
   - sstruble@mozilla.com
+  - richbodo@gmail.com
 
