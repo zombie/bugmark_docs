@@ -1,4 +1,6 @@
-Unscramble this word: l c c s o t u
+Unscramble this word: n s r t e w i
+
+HINT: the unscrambled word starts with 'win'
 
 
 

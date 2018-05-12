@@ -1,12 +1,12 @@
-l c c s o t u |> occults
-l c c s o t u |> occults
-w h g e i r e |> reweigh
-w h g e i r e |> reweigh
-e a r t w |> water
-e a r t w |> water
-a y d h a e w |> headway
-a y d h a e w |> headway
-n g k h s u i |> husking
-r s l b e t e |> trebles
-u r e r n m o |> mourner
-r s t b a o e |> boaters
+e w c a r i r |> aircrew
+e w c a r i r |> aircrew
+n l v a e u r |> unravel
+n l v a e u r |> unravel
+y a a p n t m |> tympana
+y a a p n t m |> tympana
+n s r t e w i |> winters
+n s r t e w i |> winters
+a d e s h g n |> gnashed
+e d u g o r t |> grouted
+e i t s e r c |> recites
+s v e r r o i |> revisor
