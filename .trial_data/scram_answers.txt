@@ -1,12 +1,12 @@
-a s o s n r m |> ramsons
-a s o s n r m |> ramsons
-e o d s e r c |> recodes
-e o d s e r c |> recodes
-c t r e t x a |> extract
-c t r e t x a |> extract
-t d e a m u n |> untamed
-t d e a m u n |> untamed
-e s q c e h u |> cheques
-n c h t i g a |> gnathic
-p g n p i t u |> tupping
-i a e r s e m |> seamier
+l c c s o t u |> occults
+l c c s o t u |> occults
+w h g e i r e |> reweigh
+w h g e i r e |> reweigh
+e a r t w |> water
+e a r t w |> water
+a y d h a e w |> headway
+a y d h a e w |> headway
+n g k h s u i |> husking
+r s l b e t e |> trebles
+u r e r n m o |> mourner
+r s t b a o e |> boaters

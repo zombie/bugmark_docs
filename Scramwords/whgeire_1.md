@@ -1,6 +1,6 @@
-Unscramble this word: t d e a m u n
+Unscramble this word: w h g e i r e
 
-HINT: the unscrambled word starts with 'unt'
+HINT: the unscrambled word starts with 'r'
 
 
 
