@@ -1,6 +1,6 @@
-Unscramble this word: e o d s e r c
+Unscramble this word: a y d h a e w
 
-HINT: the unscrambled word starts with 'r'
+HINT: the unscrambled word starts with 'hea'
 
 
 

@@ -1,6 +1,6 @@
-Unscramble this word: c t r e t x a
+Unscramble this word: e a r t w
 
-HINT: the unscrambled word starts with 'ex'
+HINT: the unscrambled word starts with 'wa'
 
 
 
