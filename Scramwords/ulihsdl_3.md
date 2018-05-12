@@ -1,6 +1,6 @@
-Unscramble this word: i l u y n t l
+Unscramble this word: u l i h s d l
 
-HINT: the unscrambled word starts with 'nul'
+HINT: the unscrambled word starts with 'dul'
 
 
 

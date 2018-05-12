@@ -1,6 +1,6 @@
-Unscramble this word: e a l v r
+Unscramble this word: t e r e c x e
 
-HINT: the unscrambled word starts with 'ra'
+HINT: the unscrambled word starts with 'e'
 
 
 
