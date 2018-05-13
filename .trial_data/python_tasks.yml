@@ -1,7 +1,7 @@
 ---
-- title:  Python Challenge - formula_calculation
+- title:  Python Challenge - factorial
   labels: EXERCISE,PYTHON
-  body:   'Solve Python programming challenge and create a pull request with solution:<br/><a href="http://github.com/bugmark/bugmark_docs/blob/master/Python/formula_calculation_1753.py">http://github.com/bugmark/bugmark_docs/blob/master/Python/formula_calculation_1753.py</a><p><p/>/a260c3'
-- title:  Python Challenge - count_caps_lower_letters
+  body:   'Solve Python programming challenge and create a pull request with solution:<br/><a href="http://github.com/bugmark/bugmark_docs/blob/master/Python/factorial_1434.py">http://github.com/bugmark/bugmark_docs/blob/master/Python/factorial_1434.py</a><p><p/>/48324d'
+- title:  Python Challenge - devisible_binary
   labels: EXERCISE,PYTHON
-  body:   'Solve Python programming challenge and create a pull request with solution:<br/><a href="http://github.com/bugmark/bugmark_docs/blob/master/Python/count_caps_lower_letters_1753.py">http://github.com/bugmark/bugmark_docs/blob/master/Python/count_caps_lower_letters_1753.py</a><p><p/>/940cc0'
+  body:   'Solve Python programming challenge and create a pull request with solution:<br/><a href="http://github.com/bugmark/bugmark_docs/blob/master/Python/devisible_binary_1434.py">http://github.com/bugmark/bugmark_docs/blob/master/Python/devisible_binary_1434.py</a><p><p/>/1a93be'
