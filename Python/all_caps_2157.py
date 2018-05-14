@@ -15,3 +15,5 @@
 #
 #
 # Solution:
+# Python 3
+print(sys.stdin.read().upper())
