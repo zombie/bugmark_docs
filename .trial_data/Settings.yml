@@ -1,13 +1,13 @@
 ---
-# webapp_url:   exercise.bugmark.net:4567
-webapp_url:   soak:4567
-# tracker_type: github
-# tracker_name: bugmark/bugmark_docs
-tracker_type: yaml
-tracker_name: /tmp/worker.yml
+webapp_url:   exercise.bugmark.net:4567
+tracker_type: github
+tracker_name: bugmark/bugmark_docs
+# webapp_url:       soak:4567
+# tracker_type:     yaml
+# tracker_name:     /tmp/worker.yml
 repo_url:     github.com/bugmark/bugmark_docs 
-start_date:   2018-05-08
-finish_date:  2018-05-10
+start_date:   2018-05-14
+finish_date:  2018-05-17
 funder_email: malvikar@gmail.com
 leader_name:  Malvika Rao
 leader_email: malvikar@gmail.com
@@ -22,7 +22,18 @@ scram_p0_volume: 20
 participants:
   - andy@r210.com
   - linkgeorg@gmail.com
-  - dmarti@mozilla.com
   - sstruble@mozilla.com
   - richbodo@gmail.com
+  - dmarti@mozilla.com
+  - carlos.arad@yahoo.de
+  - enrique.86@gmail.com
+  - nikhil.hassija@gmail.com
+  - tomica@gmail.com
+  - harakiscbacharakis@mozilla.com
+  - aabid@unomaha.edu
+  - s@goggins.com
+  - punya.viswanath@gmail.com
+  - snehasin1997@gmail.com
+  - robertweber95@gmail.com
+  - jandrianatoandro@unomaha.edu 
 
