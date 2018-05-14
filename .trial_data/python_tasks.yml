@@ -1,7 +1,7 @@
 ---
-- title:  Python Challenge - factorial
+- title:  Python Challenge - 2d-array
   labels: EXERCISE,PYTHON
-  body:   'Solve Python programming challenge and create a pull request with solution:<br/><a href="http://github.com/bugmark/bugmark_docs/blob/master/Python/factorial_1434.py">http://github.com/bugmark/bugmark_docs/blob/master/Python/factorial_1434.py</a><p><p/>/48324d'
-- title:  Python Challenge - devisible_binary
+  body:   'Solve Python programming challenge and create a pull request with solution:<br/><a href="http://github.com/bugmark/bugmark_docs/blob/master/Python/2d-array_2157.py">http://github.com/bugmark/bugmark_docs/blob/master/Python/2d-array_2157.py</a><p><p/>/87e4c9'
+- title:  Python Challenge - all_caps
   labels: EXERCISE,PYTHON
-  body:   'Solve Python programming challenge and create a pull request with solution:<br/><a href="http://github.com/bugmark/bugmark_docs/blob/master/Python/devisible_binary_1434.py">http://github.com/bugmark/bugmark_docs/blob/master/Python/devisible_binary_1434.py</a><p><p/>/1a93be'
+  body:   'Solve Python programming challenge and create a pull request with solution:<br/><a href="http://github.com/bugmark/bugmark_docs/blob/master/Python/all_caps_2157.py">http://github.com/bugmark/bugmark_docs/blob/master/Python/all_caps_2157.py</a><p><p/>/f86452'
