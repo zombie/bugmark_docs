@@ -1,4 +1,4 @@
-Unscramble this word: h s e d a
+Unscramble this word: i t o e h n l
 
 HINT: the unscrambled word starts with 'h'
 

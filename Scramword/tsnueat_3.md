@@ -1,6 +1,6 @@
-Unscramble this word: r n o g o d a
+Unscramble this word: t s n u e a t
 
-HINT: the unscrambled word starts with 'dr'
+HINT: the unscrambled word starts with 'att'
 
 
 

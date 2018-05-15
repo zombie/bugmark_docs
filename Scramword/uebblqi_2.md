@@ -1,6 +1,6 @@
-Unscramble this word: r s k t c i e
+Unscramble this word: u e b b l q i
 
-HINT: the unscrambled word starts with 'tic'
+HINT: the unscrambled word starts with 'qu'
 
 
 
