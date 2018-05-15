@@ -1,9 +1,9 @@
 ---
-- title:  Glass Blowing
-  labels: EXERCISE,ESSAY
-  body:   'The following paragraph taken from an article contains mistakes. Can you spot the mistakes and suggest what to write instead? <p></p><a href="https://github.com/bugmark/bugmark_docs/blob/master/Essay/Glass_Blowing.md">https://github.com/bugmark/bugmark_docs/blob/master/Essay/Glass_Blowing.md</a><p></p>Make the change directly to the file and submit a pull request.<p></p>/b9ec2b'
-
 - title:  Chocolate
   labels: EXERCISE,ESSAY
-  body:   'The following is an article describing how chocolate was discovered by the Spanish. Can you continue the article, adding a paragraph of at least 300 words on how the chocolate trade, production, and consumption evolved? <p></p><a href="https://github.com/bugmark/bugmark_docs/blob/master/Essay/Chocolate.md">https://github.com/bugmark/bugmark_docs/blob/master/Essay/Chocolate.md</a><p></p>Make the change directly to the file and submit a pull request.<p></p>/d622e0'
+  body:   'The following is an article describing how chocolate was discovered by the Spanish. Can you continue the article, adding a paragraph of at least 300 words on how the chocolate trade, production, and consumption evolved? <p></p><a href="https://github.com/bugmark/bugmark_docs/blob/master/Essay/Chocolate.md">https://github.com/bugmark/bugmark_docs/blob/master/Essay/Chocolate.md</a><p></p>Make the change directly to the file and submit a pull request.<p></p>/c95630'
+
+- title:  Primitive Loom
+  labels: EXERCISE,ESSAY
+  body:   'The following paragraph taken from an article contains mistakes. Can you spot the mistakes and suggest what to write instead? <p></p><a href="https://github.com/bugmark/bugmark_docs/blob/master/Essay/Primitive_Loom.md">https://github.com/bugmark/bugmark_docs/blob/master/Essay/Primitive_Loom.md</a><p></p>Make the change directly to the file and submit a pull request.<p></p>/ea74da'
 
