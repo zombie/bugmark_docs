@@ -1,6 +1,6 @@
-Unscramble this word: b g n b i f o
+Unscramble this word: t s n u e a t
 
-HINT: the unscrambled word starts with 'fo'
+HINT: the unscrambled word starts with 'att'
 
 
 

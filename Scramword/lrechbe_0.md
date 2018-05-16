@@ -1,4 +1,4 @@
-Unscramble this word: a n m l e r i
+Unscramble this word: l r e c h b e
 
 
 
