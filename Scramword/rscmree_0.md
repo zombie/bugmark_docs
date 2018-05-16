@@ -1,6 +1,4 @@
-Unscramble this word: i t o e h n l
-
-HINT: the unscrambled word starts with 'h'
+Unscramble this word: r s c m r e e
 
 
 

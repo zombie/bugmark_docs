@@ -1,7 +1,7 @@
 ---
-- title:  Python Challenge - remove_duplicate_sort
+- title:  Python Challenge - alphabetical_sort
   labels: EXERCISE,PYTHON
-  body:   'Solve Python programming challenge and create a pull request with solution:<br/><a href="http://github.com/bugmark/bugmark_docs/blob/master/Python/remove_duplicate_sort_0701.py">http://github.com/bugmark/bugmark_docs/blob/master/Python/remove_duplicate_sort_0701.py</a><p><p/>/30cf1c'
-- title:  Python Challenge - 2d-array
+  body:   'Solve Python programming challenge and create a pull request with solution:<br/><a href="http://github.com/bugmark/bugmark_docs/blob/master/Python/alphabetical_sort_0317.py">http://github.com/bugmark/bugmark_docs/blob/master/Python/alphabetical_sort_0317.py</a><p><p/>/22e28a'
+- title:  Python Challenge - all_caps
   labels: EXERCISE,PYTHON
-  body:   'Solve Python programming challenge and create a pull request with solution:<br/><a href="http://github.com/bugmark/bugmark_docs/blob/master/Python/2d-array_0701.py">http://github.com/bugmark/bugmark_docs/blob/master/Python/2d-array_0701.py</a><p><p/>/389985'
+  body:   'Solve Python programming challenge and create a pull request with solution:<br/><a href="http://github.com/bugmark/bugmark_docs/blob/master/Python/all_caps_0317.py">http://github.com/bugmark/bugmark_docs/blob/master/Python/all_caps_0317.py</a><p><p/>/8fcf8a'
