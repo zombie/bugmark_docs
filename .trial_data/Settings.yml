@@ -1,0 +1,15 @@
+---
+webapp_url:   exercise.bugmark.net:4567
+tracker_type: github
+tracker_name: bugmark/bugmark_docs
+repo_url:     github.com/bugmark/bugmark_docs 
+start_date:   2018-05-14
+finish_date:  2018-05-17
+scram_c3_volume: 20
+scram_c2_volume: 20
+scram_c1_volume: 20
+scram_c0_volume: 20
+scram_p3_volume: 20
+scram_p2_volume: 20
+scram_p1_volume: 20
+scram_p0_volume: 20
