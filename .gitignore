@@ -3,3 +3,4 @@ _site/
 .jekyll-metadata
 Gemfile.lock
 .trial_data/Settings_dev.yml
+.trial_data/Participants.yml
