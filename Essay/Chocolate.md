@@ -32,3 +32,12 @@ consisted of transparent quills of gold dust, of bits of tin cut in the form of
 a T, and of bags of cacao containing a specified number of grains." "Blessed
 money," exclaims Peter Martyr, "which exempts its possessor from avarice, since
 it cannot be long hoarded, nor hidden underground!" 
+
+The Spanish discoverers of the New World brought home to Spain quantities of cacao, which the curious tasted. We may conclude that they drank the preparation cold, as Montezuma did, hot chocolate being a later invention. The new drink, eagerly sought by some, did not meet with universal approval, and, as was natural, the most diverse opinions existed as to the pleasantness and wholesomeness of the beverage when it was first known. The Spaniards were the first to manufacture and drink chocolate in any quantity. To this day they serve it in the old style—thick as porridge and pungent with spices. They endeavoured to keep secret the method of preparation, and, without success, to retain the manufacture as a monopoly. Chocolate was introduced into Italy by Carletti, who praised it and spread the method of its manufacture abroad. The new drink was introduced by monks from Spain into Germany and France. From France the use of chocolate spread into England, where it began to be drunk as a luxury by the aristocracy about the time of the Commonwealth. 
+
+In 1652 a Frenchman opened the first chocolate-house. The rising popularity of chocolate led to the starting of more of these chocolate houses, at which one could sit and sip chocolate, or purchase the commodity for preparation at home.
+
+The growing consumption of chocolate did not escape the all-seeing eye of the Chancellors of England. The raw material was also made a source of revenue. In The Humble Memorial of Joseph Fry, of Bristol, Maker of Chocolate, which was addressed to the Lords Commissioners of the Treasury in 1776 (Messrs. Fry and Sons are the oldest English firm of chocolate makers, having been founded in 1728), we read that "Chocolate ... pays two shillings and threepence per pound excise, besides about ten shillings per hundredweight on the Cocoa Nuts from which it is made." In 1784 a preferential customs rate was proposed in favour of our Colonies. This they enjoyed for many years before 1853, when the uniform rate, until recently in force, was introduced.
+
+Reference : Cocoa And Chocolate - Their History From Plantation To Consumer
+            By Arthur Knapp
