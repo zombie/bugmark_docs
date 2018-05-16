@@ -14,3 +14,15 @@
 #
 #
 # Solution:
+
+# Didn't specify the python version, so:
+try:
+	# required to make it work in both python2 and python3.
+	input = raw_input
+except:
+	pass
+
+words = input("input words: ")
+seq = words.split(",")
+seq.sort()
+print(",".join(seq))
