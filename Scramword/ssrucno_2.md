@@ -1,4 +1,6 @@
-Unscramble this word: l r e c h b e
+Unscramble this word: s s r u c n o
+
+HINT: the unscrambled word starts with 'un'
 
 
 
