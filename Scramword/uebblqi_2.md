@@ -1,6 +1,6 @@
-Unscramble this word: e d b b b a l
+Unscramble this word: u e b b l q i
 
-HINT: the unscrambled word starts with 'bab'
+HINT: the unscrambled word starts with 'qu'
 
 
 

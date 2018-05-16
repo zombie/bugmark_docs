@@ -16,9 +16,3 @@
 #
 #
 # Solution:
-# Python3
-X, Y = map(int, input().split(","))
-
-A = [[i * j for j in range(Y)] for i in range(X)]
-
-print(A)
