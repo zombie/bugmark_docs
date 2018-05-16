@@ -2,3 +2,4 @@ _site/
 .sass-cache/
 .jekyll-metadata
 Gemfile.lock
+.trial_data/Settings_dev.yml
