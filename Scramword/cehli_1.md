@@ -1,4 +1,6 @@
-Unscramble this word: a n m l e r i
+Unscramble this word: c e h l i
+
+HINT: the unscrambled word starts with 'c'
 
 
 

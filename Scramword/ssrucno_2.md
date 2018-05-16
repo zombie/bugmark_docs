@@ -1,6 +1,6 @@
-Unscramble this word: i l t l s
+Unscramble this word: s s r u c n o
 
-HINT: the unscrambled word starts with 's'
+HINT: the unscrambled word starts with 'un'
 
 
 

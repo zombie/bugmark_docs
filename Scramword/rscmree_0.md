@@ -1,6 +1,4 @@
-Unscramble this word: b g n b i f o
-
-HINT: the unscrambled word starts with 'fo'
+Unscramble this word: r s c m r e e
 
 
 
