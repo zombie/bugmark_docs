@@ -1,6 +1,6 @@
-Unscramble this word: s s r u c n o
+Unscramble this word: r a y i s
 
-HINT: the unscrambled word starts with 'un'
+HINT: the unscrambled word starts with 'sy'
 
 
 

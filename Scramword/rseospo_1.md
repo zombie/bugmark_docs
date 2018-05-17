@@ -1,4 +1,6 @@
-Unscramble this word: r s c m r e e
+Unscramble this word: r s e o s p o
+
+HINT: the unscrambled word starts with 'p'
 
 
 
